@@ -1,0 +1,11 @@
+C:\Users\billy\My Box Files\My Box Files\dev\visual studio 2010\Projects\Simple Paste Bin\Simple Paste Bin\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\billy\My Box Files\My Box Files\dev\visual studio 2010\Projects\Simple Paste Bin\Simple Paste Bin\obj\Debug\Simple_Paste_Bin.Resources.resources
+C:\Users\billy\My Box Files\My Box Files\dev\visual studio 2010\Projects\Simple Paste Bin\Simple Paste Bin\obj\Debug\ResGen.read.1.tlog
+C:\Users\billy\My Box Files\My Box Files\dev\visual studio 2010\Projects\Simple Paste Bin\Simple Paste Bin\obj\Debug\ResGen.write.1.tlog
+C:\Users\billy\My Box Files\My Box Files\dev\visual studio 2010\Projects\Simple Paste Bin\Simple Paste Bin\bin\Simple Paste Bin.dll
+C:\Users\billy\My Box Files\My Box Files\dev\visual studio 2010\Projects\Simple Paste Bin\Simple Paste Bin\bin\Simple Paste Bin.pdb
+C:\Users\billy\My Box Files\My Box Files\dev\visual studio 2010\Projects\Simple Paste Bin\Simple Paste Bin\bin\Simple Paste Bin.xml
+C:\Users\billy\My Box Files\My Box Files\dev\visual studio 2010\Projects\Simple Paste Bin\Simple Paste Bin\bin\SQLite.NET.dll
+C:\Users\billy\My Box Files\My Box Files\dev\visual studio 2010\Projects\Simple Paste Bin\Simple Paste Bin\obj\Debug\Simple Paste Bin.dll
+C:\Users\billy\My Box Files\My Box Files\dev\visual studio 2010\Projects\Simple Paste Bin\Simple Paste Bin\obj\Debug\Simple Paste Bin.xml
+C:\Users\billy\My Box Files\My Box Files\dev\visual studio 2010\Projects\Simple Paste Bin\Simple Paste Bin\obj\Debug\Simple Paste Bin.pdb
