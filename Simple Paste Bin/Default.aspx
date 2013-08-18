@@ -18,7 +18,7 @@
 </head>
 <body>
     <form id="form1" runat="server">
-    <div class="style1">
+    <div id="mainDiv" class="style1" runat="server">
     
         <strong style="font-size: medium">Simple Flat Paste
         <br />
@@ -37,13 +37,14 @@
         <br />
         </span>
         <asp:Button ID="btnPaste" runat="server" Text="Paste" />
-    
+
+
         <br />
     
         <br />
         
         Pastes:
-        <span id="spanFileList" runat="server">&nbsp;</span>
+
     </div>
     </form>
 </body>

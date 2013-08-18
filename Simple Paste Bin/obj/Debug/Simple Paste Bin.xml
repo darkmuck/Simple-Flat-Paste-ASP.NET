@@ -39,6 +39,14 @@ form1 control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
+</member><member name="F:Simple_Paste_Bin._Default.mainDiv">
+	<summary>
+mainDiv control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
 </member><member name="F:Simple_Paste_Bin._Default.spanErrorMessage">
 	<summary>
 spanErrorMessage control.
@@ -66,14 +74,6 @@ To modify move field declaration from designer file to code-behind file.
 </member><member name="F:Simple_Paste_Bin._Default.btnPaste">
 	<summary>
 btnPaste control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Simple_Paste_Bin._Default.spanFileList">
-	<summary>
-spanFileList control.
 </summary>
 	<remarks>
 Auto-generated field.
